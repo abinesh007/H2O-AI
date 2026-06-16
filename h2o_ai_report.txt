@@ -1,0 +1,38 @@
+
+============================================================
+   💧  H2O AI - Smart Hydration Assistant  💧
+============================================================
+
+📍 Coimbatore, Tamil Nadu
+🌤️  24.0°C | Humidity: 97% | UV: 0.4
+
+🤖 Generating recommendations...
+
+============================================================
+📋 YOUR HYDRATION REPORT
+============================================================
+
+📝 Pleasant 24.0°C in Coimbatore today. Comfortable weather, but don't forget to stay hydrated.
+
+💧 Drink 3.0999999999999996L water today. Regular intervals - a glass every 1-2 hours. Your normal routine should be fine.
+
+🍽️  Normal balanced meals. Whatever you usually eat - just include some fruits and vegetables. Nothing special needed.
+
+🏃 Great day for outdoor activities. Walking, jogging, sports - all good. Just carry water if you're out long.
+
+⏰ WATER SCHEDULE
+   Target: 3100ml | 200ml every 30 min
+
+   07:00 AM  💧 200ml  [░░░░░░░░░░]
+   07:30 AM  💧 200ml  [█░░░░░░░░░]
+   08:00 AM  💧 200ml  [█░░░░░░░░░]
+   08:30 AM  💧 200ml  [██░░░░░░░░]
+   09:00 AM  💧 200ml  [███░░░░░░░]
+   09:30 AM  💧 200ml  [███░░░░░░░]
+   10:00 AM  💧 200ml  [████░░░░░░]
+   10:30 AM  💧 200ml  [█████░░░░░]
+   ... and 7 more times
+
+============================================================
+   📍 Coimbatore | 🕐 06:53 AM
+============================================================
